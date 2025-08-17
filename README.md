@@ -1,4 +1,4 @@
-# 奇々怪界 (KikiKaikai) - macOS Game Prototype
+# macOS Game Prototype
 
 ## 概要
 
